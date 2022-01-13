@@ -1,17 +1,14 @@
-### Hi there 👋
-
 <!--
 **lertsoft/lertsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ronny Coste
-I'm a Software Engeenier based in NY, NY. 
-tweaking with technology and boasting about how the programming can make your mental health normal! 
-I'm also blogging tech guides in medium, do not forget to visit my blogs 😉
+I'm a Software Engeenier based in NY, NY. That happens to takes photographs and is pationate about it. 
+If interested in seeing some of them give my main website a visit.
 
 
 **About me**
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on finishing my undergrad.
 - 🌱 I’m currently learning smart contracts and natural language processing while mastering web development.
 - 👯 I’m looking to collaborate on open source projects and protocols.
 - 💬 Ask me about Film Photography
