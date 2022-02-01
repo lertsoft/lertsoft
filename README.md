@@ -34,6 +34,6 @@ Softwares | <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=
 ## 📫 GitHub Stats
 | General         | Most Used Languages |
 |--------------|:-----:|
-| <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Lertsoft's github stats" /></a>  |   <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertsoft&langs_count=5" /></a> |        
+| <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lertsoft&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" alt="Lertsoft's github stats" /></a>  |   <a href="https://github.com/lertsoft/lertsoft"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lertsoft&langs_count=5&count_private=true" /></a> |        
 
 
