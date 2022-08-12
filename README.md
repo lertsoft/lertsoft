@@ -11,7 +11,7 @@ If interested in seeing some of them give my main website a visit.
 
 
 **About me**
-- 🔭 I’m currently working on finishing my undergrad.
+- 🔭 I finished and graduated from my undergrad.
 - 🌱 I’m currently learning smart contracts and natural language processing while mastering web development.
 - 👯 I’m looking to collaborate on open source projects and protocols.
 - 💬 Ask me about Film Photography
