@@ -18,13 +18,6 @@ If interested in seeing some of them give my main website a visit.
 - ⚡ Fun fact: I also work on film productions as a camarographer or director of photography.
 
 
-
-
-## 📫 Reach Me
-| Contact | Social Media  |
-| :-----: | :-----------: |
-|  <a href="mailto:ronnycoste@pm.me"><img alt="ProtonMail" src="https://protonmail.com/blog/wp-content/themes/bootstrap-basic/img/stripeLogo.png" height=25 /></a> |<a href="https://www.twitter.com/costeronny/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=25>  <a href="https://www.linkedin.com/in/costeronny/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> |
-
 ## 📫 GitHub Stats
 | General         | Most Used Languages |
 |--------------|:-----:|
