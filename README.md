@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frameworks+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
-I'm a Software Engineer based in NYC, NY. That happens to takes photographs and is pationate about it. 
+I'm a Software Engineer based in NYC, NY. That happens to takes photographs and is pationate about it. </br>
 If interested in seeing some of them give my main website a visit.
 
 
@@ -17,7 +17,7 @@ If interested in seeing some of them give my main website a visit.
 - 💬 Ask me about Film Photography
 - ⚡ Fun fact: I also work on film productions as a camarographer or director of photography.
 
-** Resume's **
+**Resume's**
 
 [Interactive Resume](https://resume.ronnycoste.com)
 
