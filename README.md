@@ -17,6 +17,12 @@ If interested in seeing some of them give my main website a visit.
 - 💬 Ask me about Film Photography
 - ⚡ Fun fact: I also work on film productions as a camarographer or director of photography.
 
+** Resume's **
+
+[Interactive Resume](https://resume.ronnycoste.com)
+
+[Github generated Resume](https://resume.github.io/?lertsoft)
+
 
 ## 📫 GitHub Stats
 | General         | Most Used Languages |
