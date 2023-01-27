@@ -15,7 +15,7 @@ If interested in seeing some of them give my main website a visit.
 - 🌱 I’m currently learning smart contracts and natural language processing while mastering web development.
 - 👯 I’m looking to collaborate on open source projects and protocols.
 - 💬 Ask me about Film Photography
-- ⚡ Fun fact: I also work on film productions as a camarographer or director of photography.
+- ⚡ Fun fact: I also work on film productions as a camarographer or director of photography. [See my cinematography work](https://cinema.ronnycoste.com)
 
 **Skill & Tools**
   <p align="center">
