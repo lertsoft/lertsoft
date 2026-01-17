@@ -7,27 +7,29 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frameworks+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 I'm a Software Engineer based in NYC, NY. That happens to takes photographs and is pationate about it. </br>
-If interested in seeing some of them give my main website a visit.
+If interested in seeing some of them give https://ron.nyc a visit.
 
 
 **About me**
 - 🔭 Undergrad in Computer Science and Information Security.
 - 🌱 I’m currently learning C++, Raspberry PI, and natural language processing while mastering web development.
-- 👯 I’m looking to collaborate on open source projects and protocols.
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Film Photography
-- ⚡ Fun fact: I also worked on film productions as a camarographer or director of photography. [See my cinematography work](https://cinema.ronnycoste.com)
+- ⚡ Fun fact: I also worked on film productions as a camarographer and/or director of photography. [See my cinematography work](https://cinema.ronnycoste.com)
 
 **Skill & Tools I enjoy using**
   <p align="center">
     <b>Languages<b/> <br />
-  <img src="https://skillicons.dev/icons?i=js,html,css,bash,cpp,py,r,react,ts" /> <br /> <br />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,swift,bash,py,cpp,r" /> <br /> <br />
     <b> Web<b/>  <br />
-  <img src="https://skillicons.dev/icons?i=d3,threejs,electron,express,nextjs,nodejs,vite,vue,tailwind" /> <br /> <br />
+  <img src="https://skillicons.dev/icons?i=d3,threejs,electron,nextjs,nodejs,bun,tailwind" /> <br /> <br />
     <b> Other needed tools <b/>  <br />
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,firebase,git,linux,mysql,postgres,raspberrypi,arduino,vscodium" /> <br /> <br />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,git,linux,mysql,postgres,raspberrypi,arduino" /> <br /> <br />
     <b> Creative<b/>  <br />
-  <img src="https://skillicons.dev/icons?i=au,ai,ps,pr,figma,notion,md" /> <br /> <br />
+  <img src="https://skillicons.dev/icons?i=ai,ps,pr,figma,obsidian,md" /> <br /> <br />
   </p>
+
+For a more detailed outlined of what I used feel free to read my setup at https://ron.nyc/uses or see [my automation script](https://github.com/lertsoft/AutomationScripts/blob/main/Mac_installer/setup.sh)
 
 <!-- In case i want to go back to the old look
 
