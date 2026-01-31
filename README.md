@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=635DF7&lines=Frameworks+Enthusiast;Creative+Developer;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
-I'm a Software Engineer based in NYC, NY. That happens to takes photographs and is pationate about it. </br>
+I'm a Software Engineer based in NYC. That happens to takes photographs and is pationate about it. </br>
 If interested in seeing some of them give https://ron.nyc a visit.
 
 
@@ -17,8 +17,13 @@ If interested in seeing some of them give https://ron.nyc a visit.
 - 💬 Ask me about Film Photography
 - ⚡ Fun fact: I also worked on film productions as a camarographer and/or director of photography. [See my cinematography work](https://cinema.ronnycoste.com)
 
-**Skill & Tools I enjoy using**
-  <p align="center">
+**Things I use**
+- [DiffLearn](https://github.com/lertsoft/DiffLearn) - Mainly used to review historical commits on projects that I am interested in or where I introduced an issue.
+- [Oura CLI](https://github.com/lertsoft/oura-ring-cli) - Used to backup all my Oura data outside of Oura servers for my own usage and Dataviz.
+- [Film Color Reference](https://github.com/lertsoft/FilmReference) - A Film Photographer tool to quickly know the color profiles of different films.
+
+  
+  <p align="left">
     <b>Languages<b/> <br />
   <img src="https://skillicons.dev/icons?i=ts,js,react,swift,bash,py,cpp,r" /> <br /> <br />
     <b> Web<b/>  <br />
